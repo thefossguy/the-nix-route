@@ -19,7 +19,6 @@ in
   # {{ networking section }}
   networking = {
     useDHCP = false;
-    hostName = "prathams-router";
     nameserver = [
       "1.1.1.1"
       "1.0.0.1"
